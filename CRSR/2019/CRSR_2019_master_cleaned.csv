@@ -1,0 +1,390 @@
+Orden,Familia,Taxa,Ingles,Espanol_CR
+Tinamiformes,,,,
+,Tinamidae,,,
+,,Crypturellus cinnamomeus,Thicket Tinamou,"Tinamú Canelo (Gallina de monte, Gongolona, Perdiz)"
+Anseriformes,,,,
+,Anatidae,,,
+,,Dendrocygna autumnalis,Black-bellied Whistling-Duck,"Pijije Común (Piche, Quichichi, Pichichi)"
+,,Cairina moschata,Muscovy Duck,Pato Real (Pato Perulero)
+,,Spatula discors,Blue-winged Teal,"Cerceta Aliazul (Pato Canadiense, Zarceta, Carraco)"
+,,Spatula clypeata,Northern Shoveler,Pato Cuchara (Carraco)
+Galliformes,,,,
+,Cracidae,,,
+,,Ortalis vetula,Plain Chachalaca,Chachalaca Olivácea (Chachalaca)
+,,Penelope purpurascens,Crested Guan,Pava Crestada (Pava Granadera)
+,,Crax rubra,Great Curassow,"Pavón Grande (Pavón, Granadera)"
+,Odontophoridae,,,
+,,Colinus cristatus,Crested Bobwhite,Codorniz Crestada (Codorniz de Monte)
+Podicipediformes,,,,
+,Podicipedidae,,,
+,,Tachybaptus dominicus,Least Grebe,Zambullidor Enano
+Columbiformes,,,,
+,Columbidae,,,
+,,Patagioenas cayennensis,Pale-vented Pigeon,Paloma Colorada (Paloma Morada)
+,,Patagioenas speciosa,Scaled Pigeon,Paloma Escamosa (Paloma Morada)
+,,Patagioenas flavirostris,Red-billed Pigeon,Paloma Piquirroja (Paloma Morada Común)
+,,Patagioenas fasciata,Band-tailed Pigeon,Paloma Collareja
+,,Patagioenas nigrirostris,Short-billed Pigeon,"Paloma Piquicorta (Paloma Morada, Dos-tontos-son)"
+,,Columbina inca,Inca Dove,"Tortolita Colilarga (San Juan, Tórtola)"
+,,Claravis pretiosa,Blue Ground Dove,Tortolita Azulada
+,,Leptotila verreauxi,White-tipped Dove,"Paloma Coliblanca (Coliblanca, Yuré)"
+,,Leptotila cassinii,Gray-chested Dove,Paloma Pechigrís (Yuré)
+,,Leptotila plumbeiceps,Gray-headed Dove,Paloma Coronigrís (Yuré)
+,,Zenaida asiatica,White-winged Dove,Paloma Aliblanca (Arrocera)
+,,Zenaida macroura,Mourning Dove,Paloma Rabuda
+Cuculiformes,,,,
+,Cuculidae,,,
+,,Crotophaga sulcirostris,Groove-billed Ani,"Garrapatero Piquiestriado (Tijo, Tinco, Zopilotillo)"
+,,Morococcyx erythropygus,Lesser Ground-Cuckoo,Cuclillo Sabanero (Horero)
+,,Piaya cayana,Squirrel Cuckoo,"Cuco Ardilla (Bobo Chiso, Cacao, San Miguel)"
+,,Coccyzus minor,Mangrove Cuckoo,Cuclillo de Antifaz
+Caprimulgiformes,,,,
+,Caprimulgidae,,,
+,,Chordeiles acutipennis,Lesser Nighthawk,Añapero Menor (Gavilán)
+,,Chordeiles minor,Common Nighthawk,Añapero Zumbón
+,,Nyctidromus albicollis,Common Pauraque,"Tapacaminos Común (Cuyeo, Pucuyo)"
+,,Antrostomus carolinensis,Chuck-will's-widow,Chotacabras de Paso
+Steatornithiformes,,,,
+,Steatornithidae,,,
+Nyctibiiformes,,,,
+,Nyctibiidae,,,
+,,Nyctibius grandis,Great Potoo,"Nictibio Grande (Pájaro Estaca, Leona, Bruja)"
+,,Nyctibius jamaicensis,Northern Potoo,"Nictibio Norteño (Pájaro Estaca, Gozona)"
+Apodiformes,,,,
+,Apodidae,,,
+,,Streptoprocne zonaris,White-collared Swift,Vencejón Collarejo (Golondrón)
+,,Chaetura vauxi,Vaux's Swift,Vencejo Común
+,Trochilidae,,,
+,,Florisuga mellivora,White-necked Jacobin,Jacobino Nuquiblanco
+,,Phaethornis striigularis,Stripe-throated Hermit,Ermitaño Enano
+,,Anthracothorax prevostii,Green-breasted Mango,Colibrí Manguito Pechiverde
+,,Heliomaster constantii,Plain-capped Starthroat,Colibrí Pochotero
+,,Archilochus colubris,Ruby-throated Hummingbird,Colibrí Garganta de Rubí
+,,Chlorostilbon canivetii,Canivet's Emerald,Esmeralda Rabihorcada
+,,Phaeochroa cuvierii,Scaly-breasted Hummingbird,Colibrí Pechiescamado
+,,Amazilia tzacatl,Rufous-tailed Hummingbird,Amazilia Rabirrufa (Gorrión)
+,,Amazilia rutila,Cinnamon Hummingbird,Amazilia Canela (Gorrión)
+,,Hylocharis eliciae,Blue-throated Goldentail,Colibrí Colidorado
+Gruiformes,,,,
+,Rallidae,,,
+,,Porzana carolina,Sora,Polluela Sora
+,,Porphyrio martinicus,Purple Gallinule,"Gallareta Morada (Polla de Agua, Gallina de Agua, Calamón Morada)"
+,,Fulica americana,American Coot,Focha Americana
+,Heliornithidae,,,
+,Aramidae,,,
+Charadriiformes,,,,
+,Burhinidae,,,
+,Recurvirostridae,,,
+,,Himantopus mexicanus,Black-necked Stilt,Cigüeñuela Cuellinegro (Soldadito)
+,Haematopodidae,,,
+,,Haematopus palliatus,American Oystercatcher,Ostrero Americano
+,Charadriidae,,,
+,,Vanellus chilensis,Southern Lapwing,Chorlitazo Sureño (Avefría)
+,,Pluvialis squatarola,Black-bellied Plover,Chorlito Gris
+,,Charadrius vociferus,Killdeer,"Chorlitejo de Dos Collares (Pijije, Tildío)"
+,,Charadrius semipalmatus,Semipalmated Plover,"Chorlitejo Semipalmado (Chorlito, Turillo)"
+,,Charadrius wilsonia,Wilson's Plover,"Chorlitejo Picudo (Chorlito Gritón, Turillo)"
+,,Charadrius collaris,Collared Plover,Chorlitejo Collarejo (Turillo)
+,,Charadrius nivosus,Snowy Plover,"Chorlitejo Patinegro (Chorlito, Turillo)"
+,Jacanidae,,,
+,,Jacana spinosa,Northern Jacana,"Jacana Centroamericana (Cirujano, Gallito de Agua, Mulita, Yegüita)"
+,Scolopacidae,,,
+,,Numenius phaeopus,Whimbrel,"Zarapito Trinador (Cherelá, Zarceta)"
+,,Arenaria interpres,Ruddy Turnstone,Vuelvepiedras Rojizo
+,,Calidris canutus,Red Knot,Correlimos Grande
+,,Calidris alba,Sanderling,Playero Arenero
+,,Calidris minutilla,Least Sandpiper,"Correlimos Menudo (Patudo, Becacina)"
+,,Calidris pusilla,Semipalmated Sandpiper,Correlimos Semipalmado
+,,Calidris mauri,Western Sandpiper,"Correlimos Occidental (Patudo, Becacina)"
+,,Limnodromus griseus,Short-billed Dowitcher,Agujeta Común
+,,Actitis macularius,Spotted Sandpiper,"Andarríos Maculado (Alzacolita, Piririza, Tigüiza)"
+,,Tringa solitaria,Solitary Sandpiper,Andarríos Solitario (Tigüiza)
+,,Tringa flavipes,Lesser Yellowlegs,"Patiamarillo Menor (Pijije, Zarceta)"
+,,Tringa semipalmata,Willet,Pigüilo
+,,Tringa melanoleuca,Greater Yellowlegs,"Patiamarillo Mayor (Correlimos Grande, Pijije, Zarceta)"
+,Stercorariidae,,,
+,Laridae,,,
+,,Xema sabini,Sabine's Gull,Gaviota de Sabine
+,,Leucophaeus atricilla,Laughing Gull,Gaviota Reidora
+,,Chlidonias niger,Black Tern,Charrancito Negro
+,,Sterna hirundo,Common Tern,Charrán Común
+,,Thalasseus maximus,Royal Tern,Pagaza Real
+,,Thalasseus sandvicensis,Sandwich Tern,Pagaza Puntiamarilla
+,,Thalasseus elegans,Elegant Tern,Pagaza Elegante
+Eurypygiformes,,,,
+,Eurypygidae,,,
+,,Eurypyga helias,Sunbittern,"Garza del Sol (Sol y Luna, Ave Canasta)"
+Phaethontiformes,,,,
+,Phaethontidae,,,
+Procellariiformes,,,,
+,Diomedeidae,,,
+,Oceanitidae,,,
+,Hydrobatidae,,,
+,Procellariidae,,,
+Ciconiiformes,,,,
+,Ciconiidae,,,
+,,Mycteria americana,Wood Stork,"Cigüeñón (Garzón, Guairón, Cigüeña)"
+Suliformes,,,,
+,Fregatidae,,,
+,,Fregata magnificens,Magnificent Frigatebird,"Rabihorcado Magno (Tijereta, Fragata, Zopilote de Mar)"
+,Sulidae,,,
+,,Sula dactylatra,Masked Booby,Piquero Blanco
+,,Sula nebouxii,Blue-footed Booby,Piquero Patiazul
+,,Sula leucogaster,Brown Booby,"Piquero Moreno (Monjita, Alcatraz)"
+,Phalacrocoracidae,,,
+,,Phalacrocorax brasilianus,Neotropic Cormorant,"Cormorán Neotropical (Pato Chancho, Pato de Agua, Bigua)"
+,Anhingidae,,,
+,,Anhinga anhinga,Anhinga,Aninga (Pato Aguja)
+Pelecaniformes,,,,
+,Pelecanidae,,,
+,,Pelecanus occidentalis,Brown Pelican,"Pelícano Pardo (Buchón, Pelícano, Alcatraz)"
+,Ardeidae,,,
+,,Tigrisoma fasciatum,Fasciated Tiger-Heron,"Garza-Tigre de Río (Martín Peña, Pájaro Vaco)"
+,,Tigrisoma mexicanum,Bare-throated Tiger-Heron,"Garza-Tigre Cuellinuda (Garzón, Martín Peña, Pájaro Vaco)"
+,,Ardea alba,Great Egret,Garceta Grande (Garza Real)
+,,Egretta thula,Snowy Egret,Garceta Nivosa
+,,Egretta caerulea,Little Blue Heron,Garceta Azul (Garza Negra)
+,,Egretta tricolor,Tricolored Heron,Garceta Tricolor
+,,Egretta rufescens,Reddish Egret,Garceta Rojiza
+,,Bubulcus ibis,Cattle Egret,"Garcilla Bueyera (Garcilla Ganadera, Garza Vaquera, Garza de Ganado)"
+,,Butorides virescens,Green Heron,Garcilla Verde (Martín Peña)
+,,Nycticorax nycticorax,Black-crowned Night-Heron,Martinete Coroninegro (Chocuaca)
+,,Nyctanassa violacea,Yellow-crowned Night-Heron,Martinete Cabecipinto
+,,Cochlearius cochlearius,Boat-billed Heron,"Pico Cuchara (Chocuaco, Cuaca)"
+,Threskiornithidae,,,
+,,Eudocimus albus,White Ibis,Ibis Blanco (Coco)
+,,Platalea ajaja,Roseate Spoonbill,"Espátula Rosada (Garza Morena o Rosada, Pato Cuchara o Rosado)"
+Cathartiformes,,,,
+,Cathartidae,,,
+,,Coragyps atratus,Black Vulture,"Zopilote Negro (Zoncho, Gallinazo)"
+,,Cathartes aura,Turkey Vulture,"Zopilote Cabecirrojo (Zonchite, Noneca)"
+,,Sarcoramphus papa,King Vulture,"Zopilote Rey (Rey Gallinazo, Rey de Zopilotes)"
+Accipitriformes,,,,
+,Pandionidae,,,
+,,Pandion haliaetus,Osprey,Águila Pescadora (Gavilán Pescador)
+,Accipitridae,,,
+,,Gampsonyx swainsonii,Pearl Kite,Elanio Enano
+,,Elanus leucurus,White-tailed Kite,"Elanio Coliblanco (Gavilán Bailarín, Gavilancillo Blanco)"
+,,Chondrohierax uncinatus,Hook-billed Kite,Gavilán Piquiganchudo
+,,Leptodon cayanensis,Gray-headed Kite,Gavilán Cabecigrís
+,,Harpagus bidentatus,Double-toothed Kite,Gavilán Gorgirrayado
+,,Accipiter striatus,Sharp-shinned Hawk,Gavilán Pajarero (Camaleón)
+,,Ictinia mississippiensis,Mississippi Kite,Elanio Colinegro
+,,Geranospiza caerulescens,Crane Hawk,Gavilán Ranero (Caracolero)
+,,Rostrhamus sociabilis,Snail Kite,Elanio Caracolero (Gavilán Caracolero)
+,,Buteogallus anthracinus,Common Black Hawk,Gavilán Cangrejero
+,,Buteogallus urubitinga,Great Black Hawk,"Gavilán Negro Mayor (Aguilucho, Gavilán Silbero, Cangrejero)"
+,,Rupornis magnirostris,Roadside Hawk,Gavilán Chapulinero (Pata Podrida)
+,,Geranoaetus albicaudatus,White-tailed Hawk,Gavilán Coliblanco (Gavilán Sabanero)
+,,Buteo plagiatus,Gray Hawk,Gavilán Gris (Gavilán Pollero)
+,,Buteo platypterus,Broad-winged Hawk,Gavilán Aludo (Gavilán Pollero)
+,,Buteo brachyurus,Short-tailed Hawk,Gavilán Colicorto
+,,Buteo swainsoni,Swainson's Hawk,Gavilán de Swainson
+,,Buteo albonotatus,Zone-tailed Hawk,Gavilán Colifajeado
+Strigiformes,,,,
+,Tytonidae,,,
+,Strigidae,,,
+,,Megascops cooperi,Pacific Screech-Owl,"Lechucita Sabanera (Ju de León, Estucurú o Sorococa)"
+,,Pulsatrix perspicillata,Spectacled Owl,Búho de Anteojos (Oropopo)
+,,Glaucidium brasilianum,Ferruginous Pygmy-Owl,"Mochuelo Común (Cuatro Ojos, Majafierro)"
+,,Ciccaba virgata,Mottled Owl,Lechuza Café (Ju de León)
+Trogoniformes,,,,
+,Trogonidae,,,
+,,Trogon melanocephalus,Black-headed Trogon,Trogón Cabecinegro (Viuda Amarilla)
+,,Trogon caligatus,Gartered Trogon,Trogón Violáceo
+,,Trogon elegans,Elegant Trogon,Trogón Elegante (Viuda Roja)
+Coraciiformes,,,,
+,Momotidae,,,
+,,Eumomota superciliosa,Turquoise-browed Motmot,Momoto Cejiceleste (Pájaro Bobo)
+,Alcedinidae,,,
+,,Megaceryle  torquata,Ringed Kingfisher,Martín Pescador Collarejo
+,,Megaceryle alcyon,Belted Kingfisher,Martín Pescador Norteño
+,,Chloroceryle amazona,Amazon Kingfisher,Martín Pescador Amazónico
+,,Chloroceryle americana,Green Kingfisher,Martín Pescador Verde
+,,Chloroceryle aenea,American Pygmy Kingfisher,Martín Pescador Enano
+Piciformes,,,,
+,Bucconidae,,,
+,,Notharchus hyperrhynchus,White-necked Puffbird,Buco Collarejo
+,Galbulidae,,,
+,Capitonidae,,,
+,Semnornithidae,,,
+,Ramphastidae,,,
+,,Pteroglossus torquatus,Collared Aracari,"Tucancillo Collarejo (Cusingo, Tití, Félix)"
+,,Ramphastos sulfuratus,Keel-billed Toucan,"Tucán Pico Iris (Tucán Pico Arcoiris, Curré Negro)"
+,Picidae,,,
+,,Melanerpes hoffmannii,Hoffmann's Woodpecker,Carpintero de Hoffmann
+,,Sphyrapicus varius,Yellow-bellied Sapsucker,Carpintero Bebedor
+,,Dryocopus lineatus,Lineated Woodpecker,Carpintero Lineado
+,,Campephilus guatemalensis,Pale-billed Woodpecker,"Carpintero Picoplata (Dos Golpes, Carpintero Chiricano)"
+Falconiformes,,,,
+,Falconidae,,,
+,,Herpetotheres cachinnans,Laughing Falcon,Guaco
+,,Micrastur semitorquatus,Collared Forest-Falcon,Halcón de Monte Collarejo
+,,Caracara cheriway,Crested Caracara,"Caracara Cargahuesos (Cargahuesos, Querque, Quebrantahuesos)"
+,,Milvago chimachima,Yellow-headed Caracara,Caracara Cabecigualdo
+,,Falco sparverius,American Kestrel,"Cernícalo Americano (Klis-Klis, Camaleón)"
+,,Falco rufigularis,Bat Falcon,Halcón Cuelliblanco
+,,Falco peregrinus,Peregrine Falcon,Halcón Peregrino
+Psittaciformes,,,,
+,Psittacidae,,,
+,,Eupsittula canicularis,Orange-fronted Parakeet,"Perico Frentinaranja (Catano, Periquito, Zapoyol)"
+,,Brotogeris jugularis,Orange-chinned Parakeet,"Periquito Barbinaranja (Perico, Zapoyolito, Chimbolito, Catano)"
+,,Pyrilia haematotis,Brown-hooded Parrot,Loro Cabecipardo (Lora)
+,,Amazona albifrons,White-fronted Parrot,"Loro Frentiblanco (Cancan, Lora)"
+,,Amazona autumnalis,Red-lored Parrot,Loro Frentirrojo (Lora Jupa Roja)
+,,Amazona farinosa,Mealy Parrot,"Loro Verde (Lora Cabeza Negra, Lora Jupa Gris)"
+,,Amazona auropalliata,Yellow-naped Parrot,Lora de Nuca Amarilla (Lora Jupa Amarilla)
+Passeriformes,,,,
+,Thamnophilidae,,,
+,,Thamnophilus doliatus,Barred Antshrike,Batará Barreteado
+,,Thamnophilus atrinucha,Black-crowned Antshrike,Batará Plomizo
+,Conopophagidae,,,
+,Grallariidae,,,
+,Rhinocryptidae,,,
+,Formicariidae,,,
+,Furnariidae,,,
+,,Sittasomus griseicapillus,Olivaceous Woodcreeper,Trepadorcito Aceitunado
+,,Dendrocincla homochroa,Ruddy Woodcreeper,Trepador Rojizo
+,,Dendrocolaptes sanctithomae,Northern Barred-Woodcreeper,Trepador Barreteado
+,,Xiphorhynchus flavigaster,Ivory-billed Woodcreeper,Trepador Piquiclaro
+,,Lepidocolaptes souleyetii,Streak-headed Woodcreeper,Trepador Cabecirrayado
+,,Xenops minutus,Plain Xenops,Xenops Común
+,Pipridae,,,
+,,Chiroxiphia linearis,Long-tailed Manakin,Saltarín Toledo (Toledo)
+,Cotingidae,,,
+,Tityridae,,,
+,,Tityra semifasciata,Masked Tityra,"Tityra Carirroja (Pájaro Chancho, Calandria)"
+,,Pachyramphus cinnamomeus,Cinnamon Becard,Cabezón Canelo
+,,Pachyramphus polychopterus,White-winged Becard,Cabezón Aliblanco
+,,Pachyramphus aglaiae,Rose-throated Becard,Cabezón Plomizo
+,Oxyruncidae,,,
+,Onychorhynchidae,,,
+,,Onychorhynchus coronatus,Royal Flycatcher,Mosquero Real
+,Tyrannidae,,,
+,,Platyrinchus cancrominus,Stub-tailed Spadebill,Piquichato Norteño
+,,Mionectes oleagineus,Ochre-bellied Flycatcher,Mosquerito Aceitunado (Tontillo)
+,,Oncostoma cinereigulare,Northern Bentbill,Piquitorcido Norteño (Brujita)
+,,Poecilotriccus sylvia,Slate-headed Tody-Flycatcher,Espatulilla Cabecigrís
+,,Todirostrum cinereum,Common Tody-Flycatcher,"Espatulilla Común (Espatulilla, Mantequillilla)"
+,,Tolmomyias sulphurescens,Yellow-olive Flycatcher,Piquiplano Azufrado
+,,Camptostoma imberbe,Northern Beardless-Tyrannulet,Mosquerito Chillón
+,,Myiopagis viridicata,Greenish Elaenia,Elainia Verdosa (Tontillo)
+,,Elaenia flavogaster,Yellow-bellied Elaenia,"Elainia Copetona (Tontillo, Bobillo, Copetoncillo)"
+,,Zimmerius vilissimus,Paltry Tyrannulet,Mosquerito Cejigrís
+,,Attila spadiceus,Bright-rumped Attila,Atila Lomiamarilla
+,,Rhytipterna holerythra,Rufous Mourner,Plañidera Rojiza
+,,Myiarchus tuberculifer,Dusky-capped Flycatcher,Copetón Crestioscuro (Tontillo)
+,,Myiarchus nuttingi,Nutting's Flycatcher,Copetón de Nutting (Tontillo)
+,,Myiarchus crinitus,Great Crested Flycatcher,Copetón Viajero (Tontillo)
+,,Myiarchus tyrannulus,Brown-crested Flycatcher,Copetón Crestipardo (Tontillo)
+,,Pitangus sulphuratus,Great Kiskadee,"Bienteveo Grande (Cristo Fue, Pecho Amarillo)"
+,,Megarynchus pitangua,Boat-billed Flycatcher,Mosquerón Picudo (Pecho Amarillo)
+,,Myiozetetes similis,Social Flycatcher,Mosquero Cejiblanco (Pecho Amarillo)
+,,Myiodynastes maculatus,Streaked Flycatcher,Mosquero Listado (Pecho Amarillo)
+,,Myiodynastes luteiventris,Sulphur-bellied Flycatcher,Mosquero Vientriazufrado (Pecho Amarillo)
+,,Legatus leucophaius,Piratic Flycatcher,Mosquero Pirata (Pecho Amarillo)
+,,Tyrannus melancholicus,Tropical Kingbird,Tirano Tropical (Pecho Amarillo)
+,,Tyrannus verticalis,Western Kingbird,Tirano Occidental (Pecho Amarillo)
+,,Tyrannus forficatus,Scissor-tailed Flycatcher,Tijereta Rosada (Tijerilla)
+,,Contopus cooperi,Olive-sided Flycatcher,Pibí Boreal (Tontillo)
+,,Contopus lugubris,Dark Pewee,Pibí Sombrío (Tontillo)
+,,Contopus sordidulus,Western Wood-Pewee,"Pibí Occidental (Tontillo, Piguí)"
+,,Contopus virens,Eastern Wood-Pewee,"Pibí Oriental (Tontillo, Piguí)"
+,,Contopus cinereus,Tropical Pewee,"Pibí Tropical (Tontillo, Piguí)"
+,,Empidonax flaviventris,Yellow-bellied Flycatcher,Mosquerito Vientriamarillo
+,,Empidonax virescens,Acadian Flycatcher,Mosquerito Verdoso
+,,Empidonax alnorum,Alder Flycatcher,Mosquerito de Charral
+,,Empidonax traillii,Willow Flycatcher,Mosquerito de Traill
+,Vireonidae,,,
+,,Cyclarhis gujanensis,Rufous-browed Peppershrike,Vireón Cejirrufo
+,,Pachysylvia decurtatus,Lesser Greenlet,Verdillo Menudo
+,,Vireo pallens,Mangrove Vireo,Vireo de Manglar
+,,Vireo flavifrons,Yellow-throated Vireo,Vireo Pechiamarillo
+,,Vireo philadelphicus,Philadelphia Vireo,Vireo Amarillento
+,,Vireo olivaceus,Red-eyed Vireo,Vireo Ojirrojo (Chiguisa)
+,,Vireo flavoviridis,Yellow-green Vireo,"Vireo Cabecigrís (Chiguisa, Chuesa, Cazadora, Fraile)"
+,Corvidae,,,
+,,Calocitta formosa,White-throated Magpie-Jay,"Urraca Copetona (Urraca, Piapia Azul)"
+,Hirundinidae,,,
+,,Riparia riparia,Bank Swallow,Golondrina Ribereña
+,,Tachycineta albilinea,Mangrove Swallow,Golondrina Lomiblanca
+,,Stelgidopteryx serripennis,Northern Rough-winged Swallow,Golondrina Alirrasposa Norteña
+,,Stelgidopteryx ruficollis,Southern Rough-winged Swallow,Golondrina Alirrasposa Sureña
+,,Progne chalybea,Gray-breasted Martin,Martín Pechigrís
+,,Hirundo rustica,Barn Swallow,Golondrina Tijereta
+,Troglodytidae,,,
+,,Troglodytes aedon,House Wren,"Soterrey Cucarachero (Soterrey, Soterré)"
+,,Campylorhynchus rufinucha,Rufous-naped Wren,"Soterrey Nuquirrufo (Chico Piojo, Botijón, Salta Piñuela)"
+,,Thryophilus rufalbus,Rufous-and-white Wren,Soterrey Rufo y Blanco
+,,Thryophilus pleurostictus,Banded Wren,Soterrey de Costillas Barreteadas
+,Polioptilidae,,,
+,,Ramphocaenus melanurus,Long-billed Gnatwren,Soterillo Picudo
+,,Polioptila albiloris,White-lored Gnatcatcher,"Perlita Cabecinegra (Espatulilla, Cazadora)"
+,Cinclidae,,,
+,Turdidae,,,
+,,Catharus aurantiirostris,Orange-billed Nightingale-Thrush,"Zorzal Piquianaranjado (Jilguerillo de Charral, Inglesito)"
+,,Catharus ustulatus,Swainson's Thrush,Zorzal de Swainson (Conchita)
+,,Hylocichla mustelina,Wood Thrush,Zorzal del Bosque
+,,Turdus grayi,Clay-colored Thrush,Mirlo Pardo (Yigüirro)
+,Mimidae,,,
+,Bombycillidae,,,
+,Ptiliogonatidae,,,
+,Estrildidae,,,
+,,Lonchura malacca,Tricolored Munia,Monjita Tricolor
+,Passeridae,,,
+,Motacillidae,,,
+,Fringillidae,,,
+,,Euphonia affinis,Scrub Euphonia,"Eufonia Gargantinegra (Finito, Agüío, Monjita Fina)"
+,,Euphonia luteicapilla,Yellow-crowned Euphonia,"Eufonia Coroniamarilla (Monjita, Agüío)"
+,,Euphonia hirundinacea,Yellow-throated Euphonia,"Eufonia Gorgiamarilla (Agüío, Caciquita)"
+,Rhodinocichlidae,,,
+,Passerellidae,,,
+,,Peucaea ruficauda,Stripe-headed Sparrow,"Sabanero Cabecilistado (Pájaro Chicle, Albarda Nueva, Ratoncillo)"
+,,Peucaea botterii,Botteri's Sparrow,Sabanero Pechianteado
+,,Arremonops rufivirgatus,Olive Sparrow,Pinzón Aceitunado (Timbón)
+,Zeledoniidae,,,
+,Icteriidae,,,
+,Icteridae,,,
+,,Sturnella magna,Eastern Meadowlark,"Zacatero Común (Zacatera, Carmelo)"
+,,Psarocolius montezuma,Montezuma Oropendola,Oropéndola de Moctezuma (Oropéndola)
+,,Cacicus uropygialis,Scarlet-rumped Cacique,"Cacique Lomiescarlata (Sargento, Plío)"
+,,Icterus spurius,Orchard Oriole,Bolsero Castaño (Cacique Ahumado)
+,,Icterus pustulatus,Streak-backed Oriole,"Bolsero Dorsilistado (Chilchote, Chilto, Chorchín, Chorcha)"
+,,Icterus bullockii,Bullock's Oriole,Bolsero de Bullock
+,,Icterus pectoralis,Spot-breasted Oriole,"Bolsero Pechimanchado (Balsero, Chiltote)"
+,,Icterus galbula,Baltimore Oriole,"Bolsero Norteño (Cacique Veranero, Cacicón, Naranjero)"
+,,Dives dives,Melodious Blackbird,Tordo Cantor
+,,Quiscalus mexicanus,Great-tailed Grackle,"Zanate Grande (Sanate, Zanate)"
+,Parulidae,,,
+,,Seiurus aurocapilla,Ovenbird,Reinita Hornera
+,,Helmitheros vermivorum,Worm-eating Warbler,Reinita Gusanera
+,,Parkesia noveboracensis,Northern Waterthrush,"Reinita Acuática Norteña (Menea Cola, Tordo de Agua)"
+,,Vermivora chrysoptera,Golden-winged Warbler,Reinita Alidorada
+,,Mniotilta varia,Black-and-white Warbler,Reinita Trepadora (Zebrita)
+,,Protonotaria citrea,Prothonotary Warbler,Reinita Cabecidorada
+,,Leiothlypis peregrina,Tennessee Warbler,Reinita Verdilla (Cazadorcita)
+,,Oporornis agilis,Connecticut Warbler,Reinita Ojianillada
+,,Geothlypis poliocephala,Gray-crowned Yellowthroat,Antifacito Coronigrís
+,,Geothlypis philadelphia,Mourning Warbler,Reinita Enlutada
+,,Setophaga ruticilla,American Redstart,Candelita Norteña (Raya Roja)
+,,Setophaga magnolia,Magnolia Warbler,Reinita Colifajeada
+,,Setophaga fusca,Blackburnian Warbler,Reinita Gorginaranja
+,,Setophaga petechia,Yellow Warbler,Reinita Amarilla (Canarita)
+,,Setophaga pensylvanica,Chestnut-sided Warbler,Reinita de Costillas Castañas
+,,Setophaga virens,Black-throated Green Warbler,Reinita Cariamarilla
+,,Basileuterus rufifrons,Rufous-capped Warbler,Reinita Cabecicastaña
+,,Cardellina canadensis,Canada Warbler,Reinita Pechirrayada
+,Mitrospingidae,,,
+,Cardinalidae,,,
+,,Piranga rubra,Summer Tanager,"Tangara Veranera (Cardenal Veranero, Pan de Achiote, Sangre Toro)"
+,,Piranga olivacea,Scarlet Tanager,Tangara Escarlata (Cardenal Alas Negras)
+,,Piranga ludoviciana,Western Tanager,Tangara Carirroja
+,,Pheucticus ludovicianus,Rose-breasted Grosbeak,Picogrueso Pechirrosado (Calandria)
+,,Passerina caerulea,Blue Grosbeak,Picogrueso Azul (Alondra)
+,,Passerina cyanea,Indigo Bunting,Azulillo Norteño (Indris)
+,,Passerina ciris,Painted Bunting,"Azulillo Sietecolores (Arcoiris, Siete Colores)"
+,,Spiza americana,Dickcissel,"Sabanero Arrocero (Arrocero, Pius)"
+,Thraupidae,,,
+,,Thraupis episcopus,Blue-gray Tanager,"Tangara Azuleja (Viudita, Viuda)"
+,,Eucometis  penicillata,Gray-headed Tanager,Tangara Cabecigrís
+,,Cyanerpes cyaneus,Red-legged Honeycreeper,"Mielero Patirrojo (Picudo, Mielero, Tucuso, Trepador)"
