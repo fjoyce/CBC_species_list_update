@@ -1,7 +1,7 @@
 2019-12-16
 Francis Joyce
 
-Instructions for updating the speies ACG CBC species lists
+Instructions for updating the species ACG CBC species lists
 
 (1) Download "Blank Field Form" from http://netapp.audubon.org/CBC/Compiler/ and delete content not related to species list
 
