@@ -23,6 +23,24 @@ Save as "CBC_names.csv"
 
 (9) Save as new csv file (so it doesn't get overwritten if you re-run the R script)
 
+(10) Save as excel to preserve formatting:
+    -Page Orientation: landscape
+    -Delete Orden column
+    -Delete Estatus column
+    -delete columns: # or cw	US	HC	LC
+    -Bold header row and familia column
+    -Wrap text in common name columns
+    -Add columns for Total and Comentarios
+    -Change species name columns
+    -Borders: all
+    -repeat first row on all pages
+    -Footer: Page number/Number of Pages
+    -Add "Otras especies" at bottom
+    -Format Cells > Auto Row Height
+    
+ 
+
+
 
 
 
